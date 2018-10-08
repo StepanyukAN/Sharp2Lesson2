@@ -5,7 +5,7 @@ namespace Lesson_2
 {
     /// <summary>
     /// Класс для вывода списка работников через foreach
-    /// с помощью интерфейсов IEnumerable и IEnumerator
+    /// с помощью реализации интерфейсов IEnumerable и IEnumerator
     /// </summary>
     class Department : IEnumerable, IEnumerator
     {
